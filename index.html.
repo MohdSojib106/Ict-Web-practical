@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <hr>
+    <p>This is the home page of my assignment project.<br>
+    Use the links below to explore my hobbies and where I want to travel.</p>
+    
+    <ul>
+        <li><a href="hobbies.html">My Hobbies</a></li>
+        <li><a href="destinations.html">Favorite Destinations</a></li>
+    </ul>
+
+    <img src="https://via.placeholder.com/300" alt="Welcome Image">
+</body>
+</html>
